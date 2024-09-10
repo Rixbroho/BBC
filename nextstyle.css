@@ -1,0 +1,26 @@
+/* main{
+    font-family:'Courier New', Courier, monospace !important;
+} */
+
+.container{
+    width: 50%;
+}
+
+.up p{
+    font-size: 0.8rem;
+}
+
+figure img,video{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 920px;
+}
+
+figcaption{
+    font-size: 0.8rem;
+}
+
+p{
+    font-size: 20px;
+}
